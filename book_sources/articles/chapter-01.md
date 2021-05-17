@@ -4,8 +4,6 @@
 
 編輯第一章 blarblar
 
-Test for pravite.
-
 [tag](#title)
 
 - [ ] This is test1!

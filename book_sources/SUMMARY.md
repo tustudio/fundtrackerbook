@@ -1,5 +1,5 @@
 # Summary
 
 * [關於](README.md)
-* [自選基金](./articles/myhome.md)
-* [設定](./articles/setting.md)
+* [服務條款](./articles/service.md)
+* [隱私權保護政策](./articles/privacy.md)
